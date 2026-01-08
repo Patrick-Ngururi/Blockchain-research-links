@@ -15,7 +15,7 @@ Bitcoin units & denominations: (https://bitcoinchaser.com/bitcoin-units-and-deno
 Bircoin forum: (https://bitcointalk.org/index.php)
 
 Halving countdown: 
-. (https://www.bitcoinblockhalf.com/)
+. (https://www.bitcoinblockhalf.com/)\
 . (https://www.halvingbitcoins.com/)
 
 Bitcoin ETF: (https://farside.co.uk/btc/)
