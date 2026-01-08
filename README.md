@@ -1,6 +1,7 @@
 In this repository you'll find some interesting links for blockchain research
 
-# Bitcoin basics
+---
+# Bitcoin research links
 
 Start here (https://bitcoin.org/en/)
 
@@ -28,4 +29,25 @@ Bitcoin to Gold ratio: (https://www.longtermtrends.com/bitcoin-vs-gold/)
 
 Bitcoin developer resources: (https://developer.bitcoin.org/index.html)
 
+Bitcoin Improvement Proposal (BIP) research links: (https://bips.dev/)\(https://github.com/bitcoin/bips)
 
+---
+
+# Ethereum Research links
+
+Start here: (https://ethereum.org/)
+
+
+
+Block Explorer: (https://etherscan.io/)
+---
+
+# Solana Research links
+
+---
+
+# BNB Research links
+
+---
+
+# 
