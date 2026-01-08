@@ -37,9 +37,11 @@ Bitcoin Improvement Proposal (BIP) research links: (https://bips.dev/)\(https://
 
 Start here: (https://ethereum.org/)
 
+Block Explorer: (https://etherscan.io/)
+
 Ethereum Tokens Explorer: (https://ethplorer.io/)
 
-Block Explorer: (https://etherscan.io/)
+Ethereum Improvement Proposal links: (https://eips.ethereum.org/)\(https://github.com/ethereum/EIPs)
 
 ---
 
