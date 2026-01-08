@@ -13,7 +13,7 @@ Bitcoin wiki: (https://bitcoinwiki.org/)
 
 Bitcoin units & denominations: (https://bitcoinchaser.com/bitcoin-units-and-denominations)
 
-Bircoin forum: (https://bitcointalk.org/index.php)
+Bitcoin forum: (https://bitcointalk.org/index.php)
 
 Halving countdown: 
 . (https://www.bitcoinblockhalf.com/)\
@@ -37,12 +37,21 @@ Bitcoin Improvement Proposal (BIP) research links: (https://bips.dev/)\(https://
 
 Start here: (https://ethereum.org/)
 
-
+Ethereum Tokens Explorer: (https://ethplorer.io/)
 
 Block Explorer: (https://etherscan.io/)
 ---
 
 # Solana Research links
+
+Start here: (https://solana.com/)
+
+Documentation: (https://solana.com/docs)
+
+Block Explorer: (https://solscan.io/)
+
+Solana improvement proposals: (https://github.com/solana-foundation/solana-improvement-documents/tree/main/proposals)
+
 
 ---
 
