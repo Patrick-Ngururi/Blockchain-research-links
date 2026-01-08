@@ -64,6 +64,14 @@ Solana improvement proposals: (https://github.com/solana-foundation/solana-impro
 
 # BNB Research links
 
+Start here: (https://www.bnbchain.org/en)
+
+BNB Faucet: (https://www.bnbchain.org/en/testnet-faucet)
+
+BNB Bridge: (https://www.bnbchain.org/en/bnb-chain-bridge)
+
+Networks & RPCs: (https://www.bnbchain.org/en/bnb-chain-bridge)
+
 ---
 
 Defi information: (https://defillama.com/)
