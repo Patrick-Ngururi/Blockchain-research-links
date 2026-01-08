@@ -47,6 +47,10 @@ Developer Docs: (https://ethereum.org/developers/docs/)
 
 Strategic Ethereum Reserve and ETFs: (https://www.strategicethreserve.xyz/)
 
+Gas, supply & other information: (https://ultrasound.money/)
+
+Decentralised Exchange(DEX): (https://app.uniswap.org/)
+
 ---
 
 # Solana Research links
@@ -72,6 +76,12 @@ BNB Bridge: (https://www.bnbchain.org/en/bnb-chain-bridge)
 
 Networks & RPCs: (https://www.bnbchain.org/en/bnb-chain-bridge)
 
+Block Explorer: (https://bscscan.com/)
+
+Dex: (https://pancakeswap.finance/swap)
+
 ---
 
 Defi information: (https://defillama.com/)
+
+Token Tracker, Charts & other info: (https://birdeye.so/)
