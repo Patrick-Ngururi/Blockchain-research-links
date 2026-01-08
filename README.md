@@ -45,6 +45,8 @@ Ethereum Improvement Proposal links: (https://eips.ethereum.org/). (https://gith
 
 Developer Docs: (https://ethereum.org/developers/docs/)
 
+Strategic Ethereum Reserve and ETFs: (https://www.strategicethreserve.xyz/)
+
 ---
 
 # Solana Research links
