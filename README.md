@@ -41,7 +41,9 @@ Block Explorer: (https://etherscan.io/)
 
 Ethereum Tokens Explorer: (https://ethplorer.io/)
 
-Ethereum Improvement Proposal links: (https://eips.ethereum.org/)\(https://github.com/ethereum/EIPs)
+Ethereum Improvement Proposal links: (https://eips.ethereum.org/). (https://github.com/ethereum/EIPs)
+
+Developer Docs: (https://ethereum.org/developers/docs/)
 
 ---
 
