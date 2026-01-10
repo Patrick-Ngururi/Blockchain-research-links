@@ -1,6 +1,34 @@
 In this repository you'll find some interesting links for blockchain research
 
 ---
+
+# Youtube channels
+
+Coin Bureau: (https://www.youtube.com/@CoinBureau)
+
+CoinGecko: (https://www.youtube.com/@CoinGecko)
+
+Ivan on Tech: (https://www.youtube.com/@IvanOnTech)
+
+ColdFusion: (https://www.youtube.com/@ColdFusion)
+
+Cointelegraph: (https://www.youtube.com/@cointelegraph)
+
+Whiteboard Crypto: (https://www.youtube.com/@WhiteboardCrypto)
+
+Finematics: (https://www.youtube.com/@Finematics)
+
+## Developer section
+
+Dapp University: (https://www.youtube.com/@DappUniversity)
+
+EatTheBlocks: (https://www.youtube.com/@EatTheBlocks)
+
+Patrick Collins: (https://www.youtube.com/@PatrickAlphaC)
+
+Thirdweb: (https://www.youtube.com/@thirdweb_)
+
+---
 # Bitcoin research links
 
 Start here (https://bitcoin.org/en/)
