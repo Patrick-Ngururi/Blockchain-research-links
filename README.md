@@ -5,6 +5,8 @@ In this repository you'll find some interesting links for blockchain research
 
 Start here (https://bitcoin.org/en/)
 
+Bitcoin whitepaper: (https://bitcoin.org/bitcoin.pdf)
+
 Bitcoin basics: (https://bitcoinwiki.org/category/bitcoin-basics)
 
 Bitcoin Block Explorer: (https://www.blockchain.com/explorer)
@@ -37,6 +39,8 @@ Bitcoin Improvement Proposal (BIP) research links: (https://bips.dev/)\(https://
 
 Start here: (https://ethereum.org/)
 
+Ethereum whitepaper: (https://ethereum.org/whitepaper/)
+
 Block Explorer: (https://etherscan.io/)
 
 Ethereum Tokens Explorer: (https://ethplorer.io/)
@@ -57,6 +61,8 @@ Decentralised Exchange(DEX): (https://app.uniswap.org/)
 
 Start here: (https://solana.com/)
 
+Solana whitepaper: (https://github.com/solana-labs/whitepaper/blob/master/solana-whitepaper-en.pdf)
+
 Documentation: (https://solana.com/docs)
 
 Block Explorer: (https://solscan.io/)
@@ -69,6 +75,8 @@ Solana improvement proposals: (https://github.com/solana-foundation/solana-impro
 # BNB Research links
 
 Start here: (https://www.bnbchain.org/en)
+
+BNB whitepeper: (https://github.com/bnb-chain/whitepaper/blob/master/WHITEPAPER.md)
 
 BNB Faucet: (https://www.bnbchain.org/en/testnet-faucet)
 
