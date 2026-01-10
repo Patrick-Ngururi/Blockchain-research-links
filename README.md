@@ -20,6 +20,8 @@ Finematics: (https://www.youtube.com/@Finematics)
 
 ## Developer section
 
+Smart Contract Programmer: (https://www.youtube.com/@smartcontractprogrammer)
+
 Dapp University: (https://www.youtube.com/@DappUniversity)
 
 EatTheBlocks: (https://www.youtube.com/@EatTheBlocks)
@@ -27,6 +29,8 @@ EatTheBlocks: (https://www.youtube.com/@EatTheBlocks)
 Patrick Collins: (https://www.youtube.com/@PatrickAlphaC)
 
 Thirdweb: (https://www.youtube.com/@thirdweb_)
+
+web3clubs: (https://www.youtube.com/@web3clubs)
 
 ---
 # Bitcoin research links
