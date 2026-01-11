@@ -32,6 +32,8 @@ Thirdweb: (https://www.youtube.com/@thirdweb_)
 
 web3clubs: (https://www.youtube.com/@web3clubs)
 
+Johnny Time: (https://www.youtube.com/@JohnnyTime)
+
 ---
 # Bitcoin research links
 
