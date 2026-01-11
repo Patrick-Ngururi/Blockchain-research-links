@@ -18,7 +18,7 @@ Whiteboard Crypto: (https://www.youtube.com/@WhiteboardCrypto)
 
 Finematics: (https://www.youtube.com/@Finematics)
 
-## Developer section
+## Developer & Auditors section
 
 Smart Contract Programmer: (https://www.youtube.com/@smartcontractprogrammer)
 
