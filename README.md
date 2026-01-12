@@ -14,6 +14,10 @@ Token Tracker, Charts & other info: (https://birdeye.so/)
 
 Real world assets: (https://app.rwa.xyz/)
 
+Decentralized Exchange (DEX) Tracker Tool: (https://www.geckoterminal.com/) (https://dex.coinmarketcap.com/token/all/)
+
+
+
 ---
 
 # Youtube channels
