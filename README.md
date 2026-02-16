@@ -76,7 +76,7 @@ Bitcoin units & denominations: (https://bitcoinchaser.com/bitcoin-units-and-deno
 Bitcoin forum: (https://bitcointalk.org/index.php)
 
 Halving countdown:\
-. (https://www.bitcoinblockhalf.com/)\
+. (https://www.bitcoinblockhalf.com/) \
 . (https://www.halvingbitcoins.com/)
 
 Bitcoin ETF: (https://farside.co.uk/btc/)
@@ -90,7 +90,7 @@ Bitcoin to Gold ratio: (https://www.longtermtrends.com/bitcoin-vs-gold/)
 Bitcoin developer resources: (https://developer.bitcoin.org/index.html)
 
 Bitcoin Improvement Proposal (BIP) research links:\
-. (https://bips.dev/)\
+. (https://bips.dev/) \
 . (https://github.com/bitcoin/bips)
 
 ---
@@ -106,7 +106,7 @@ Block Explorer: (https://etherscan.io/)
 Ethereum Tokens Explorer: (https://ethplorer.io/)
 
 Ethereum Improvement Proposal links:\
-. (https://eips.ethereum.org/)\
+. (https://eips.ethereum.org/) \
 . (https://github.com/ethereum/EIPs)
 
 Developer Docs: (https://ethereum.org/developers/docs/)
