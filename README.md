@@ -4,6 +4,10 @@ In this repository you'll find some interesting links for blockchain research
 
 # General Information
 
+Gold price: (https://goldprice.org/)
+
+Silver price: (https://silverprice.org/)
+
 Coingecko: (https://www.coingecko.com/)
 
 Coinmarketcap: (https://coinmarketcap.com/)
@@ -69,7 +73,7 @@ Bitcoin units & denominations: (https://bitcoinchaser.com/bitcoin-units-and-deno
 
 Bitcoin forum: (https://bitcointalk.org/index.php)
 
-Halving countdown: 
+Halving countdown:\
 . (https://www.bitcoinblockhalf.com/)\
 . (https://www.halvingbitcoins.com/)
 
@@ -97,7 +101,9 @@ Block Explorer: (https://etherscan.io/)
 
 Ethereum Tokens Explorer: (https://ethplorer.io/)
 
-Ethereum Improvement Proposal links: (https://eips.ethereum.org/). (https://github.com/ethereum/EIPs)
+Ethereum Improvement Proposal links:\
+. (https://eips.ethereum.org/)\
+. (https://github.com/ethereum/EIPs)
 
 Developer Docs: (https://ethereum.org/developers/docs/)
 
