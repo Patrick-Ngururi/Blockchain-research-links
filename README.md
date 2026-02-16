@@ -18,7 +18,9 @@ Token Tracker, Charts & other info: (https://birdeye.so/)
 
 Real world assets: (https://app.rwa.xyz/)
 
-Decentralized Exchange (DEX) Tracker Tool: (https://www.geckoterminal.com/) (https://dex.coinmarketcap.com/token/all/)
+Decentralized Exchange (DEX) Tracker Tool:\
+. (https://www.geckoterminal.com/)\
+. (https://dex.coinmarketcap.com/token/all/)
 
 
 
@@ -87,7 +89,9 @@ Bitcoin to Gold ratio: (https://www.longtermtrends.com/bitcoin-vs-gold/)
 
 Bitcoin developer resources: (https://developer.bitcoin.org/index.html)
 
-Bitcoin Improvement Proposal (BIP) research links: (https://bips.dev/)\(https://github.com/bitcoin/bips)
+Bitcoin Improvement Proposal (BIP) research links:\
+. (https://bips.dev/)\
+. (https://github.com/bitcoin/bips)
 
 ---
 
